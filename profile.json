@@ -1,0 +1,9 @@
+{
+  "draft": 2,
+  "share": 0.95,
+  "cache": 3072,
+  "threads": 8,
+  "context": 32768,
+  "runtime": "llama.cpp b12201 (a2b301831)",
+  "model_file": "gemma-4-26B-A4B-it-UD-Q4_K_M.gguf"
+}
